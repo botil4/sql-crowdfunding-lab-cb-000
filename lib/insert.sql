@@ -1,4 +1,4 @@
-INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES 
+INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES
 ("help me", "invest", 5000, "2017-02-02", "2018-02-02"),
 ("help my dog", "animal", 500, "2018-02-02", "2018-03-02"),
 ("help me sing", "music", 1000, "2017-10-02", "2018-02-02"),
