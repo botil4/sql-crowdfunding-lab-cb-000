@@ -8,7 +8,7 @@ INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUE
 ("new album", "music", 6000, "2018-02-02", "2018-10-02"),
 ("new house", "invest", 40000, "2018-03-02", "2019-03-02"),
 ("help my hamster", "animal", 100, "2017-02-02", "2018-03-02"),
-("put on concert", "music", 10000, "2017-011-02", "2018-02-02")
+("put on concert", "music", 10000, "2017-011-02", "2018-02-02");
 
 INSERT INTO users (name, age) VALUES ("Bob", 20);
 INSERT INTO users (name, age) VALUES ("Sue", 30);
