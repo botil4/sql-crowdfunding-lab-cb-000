@@ -1,13 +1,14 @@
-INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ("help me", "invest", 5000, "2017-02-02", "2018-02-02");
-INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ("help my dog", "animal", 500, "2018-02-02", "2018-03-02");
-INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ("help me sing", "music", 1000, "2017-10-02", "2018-02-02");
-INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ("help me write", "book", 3000, "2017-06-02", "2018-06-02");
-INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ("help my cat", "animal", 1000, "2018-01-02", "2018-04-02");
-INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ("new book series", "book", 2000, "2017-012-02", "2018-06-02");
-INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ("new album", "music", 6000, "2018-02-02", "2018-10-02");
-INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ("new house", "invest", 40000, "2018-03-02", "2019-03-02");
-INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ("help my hamster", "animal", 100, "2017-02-02", "2018-03-02");
-INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ("put on concert", "music", 10000, "2017-011-02", "2018-02-02");
+INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES 
+("help me", "invest", 5000, "2017-02-02", "2018-02-02"),
+("help my dog", "animal", 500, "2018-02-02", "2018-03-02"),
+("help me sing", "music", 1000, "2017-10-02", "2018-02-02"),
+("help me write", "book", 3000, "2017-06-02", "2018-06-02"),
+("help my cat", "animal", 1000, "2018-01-02", "2018-04-02"),
+("new book series", "book", 2000, "2017-012-02", "2018-06-02"),
+("new album", "music", 6000, "2018-02-02", "2018-10-02"),
+("new house", "invest", 40000, "2018-03-02", "2019-03-02"),
+("help my hamster", "animal", 100, "2017-02-02", "2018-03-02"),
+("put on concert", "music", 10000, "2017-011-02", "2018-02-02")
 
 INSERT INTO users (name, age) VALUES ("Bob", 20);
 INSERT INTO users (name, age) VALUES ("Sue", 30);
