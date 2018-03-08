@@ -30,6 +30,4 @@ INSERT INTO users (name, age) VALUES ("John", 60);
 INSERT INTO users (name, age) VALUES ("Larry", 55);
 INSERT INTO users (name, age) VALUES ("Dan", 21);
 
-30.times do
-INSERT INTO pledges (user_id, project_id, amount) VALUES (rand(1..20), rand(1..10), rand(10..1000))
-end
+30.times do INSERT INTO pledges (user_id, project_id, amount) VALUES (rand(1..20), rand(1..10), rand(10..1000))
