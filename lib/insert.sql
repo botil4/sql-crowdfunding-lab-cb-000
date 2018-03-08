@@ -10,7 +10,7 @@ INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUE
 ("help my hamster", "animal", 100, "2017-02-02", "2018-03-02"),
 ("put on concert", "music", 10000, "2017-011-02", "2018-02-02");
 
-INSERT INTO users (name, age) VALUES 
+INSERT INTO users (name, age) VALUES
 ("Bob", 20),
 ("Sue", 30).
 ("Jill", 25).
@@ -32,7 +32,7 @@ INSERT INTO users (name, age) VALUES
 ("Larry", 55).
 ("Dan", 21);
 
-INSERT INTO pledges (user_id, project_id, amount) VALUES 
+INSERT INTO pledges (user_id, project_id, amount) VALUES
 (1, 1, 100),
 (2, 6, 200),
 (3, 3, 300),
