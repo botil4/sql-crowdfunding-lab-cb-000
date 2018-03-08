@@ -12,24 +12,24 @@ INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUE
 
 INSERT INTO users (name, age) VALUES
 ("Bob", 20),
-("Sue", 30).
-("Jill", 25).
-("Travis", 29).
-("Steve", 40).
-("Jamie", 30).
-("Dave", 18).
-("Adam", 35).
-("Brian", 37).
-("Jim", 22).
-("Barb", 25).
-("Brenda", 30).
-("Amanda", 32).
-("Brittany", 26).
-("Sandy", 50).
-("Bill", 45).
-("Mike", 15).
-("John", 60).
-("Larry", 55).
+("Sue", 30),
+("Jill", 25),
+("Travis", 29),
+("Steve", 40),
+("Jamie", 30),
+("Dave", 18),
+("Adam", 35),
+("Brian", 37),
+("Jim", 22),
+("Barb", 25),
+("Brenda", 30),
+("Amanda", 32),
+("Brittany", 26),
+("Sandy", 50),
+("Bill", 45),
+("Mike", 15),
+("John", 60),
+("Larry", 55),
 ("Dan", 21);
 
 INSERT INTO pledges (user_id, project_id, amount) VALUES
